@@ -1,0 +1,21 @@
+sentence,true_label,predicted_label,confidence
+"The plot wasn't bad, but it definitely could've been better.",NEGATIVE,NEGATIVE,0.9952176809310913
+"I don't dislike the new update, it's actually pretty solid.",POSITIVE,POSITIVE,0.999855637550354
+"Oh great, another Monday morning meeting that could've been an email.",NEGATIVE,NEGATIVE,0.9889334440231323
+"Sure, because waiting two hours for a table is exactly what I wanted.",NEGATIVE,POSITIVE,0.9838707447052002
+"Not the worst meal I've had, but far from the best either.",NEGATIVE,NEGATIVE,0.9818671941757202
+"I wouldn't say I hated it, but I probably won't watch it again.",NEGATIVE,NEGATIVE,0.9927623867988586
+"The service wasn't great, however the food made up for it.",POSITIVE,POSITIVE,0.9975627660751343
+It's hard to complain about a hotel this comfortable.,POSITIVE,POSITIVE,0.9996476173400879
+"I was skeptical at first, but the movie completely won me over.",POSITIVE,POSITIVE,0.9993808269500732
+"The instructions were confusing, yet somehow the product still works well.",POSITIVE,POSITIVE,0.9996199607849121
+"Yeah, losing my luggage on day one was a fantastic start to the trip.",NEGATIVE,POSITIVE,0.9988872408866882
+"This is far from perfect, but it gets the job done.",POSITIVE,POSITIVE,0.9952130317687988
+"I can't say I'm impressed, but it wasn't a total disaster.",NEGATIVE,POSITIVE,0.9903524518013
+The staff couldn't have been more unhelpful if they tried.,NEGATIVE,NEGATIVE,0.9815554022789001
+"It's not that the coffee was bad, it's that it was overpriced.",NEGATIVE,NEGATIVE,0.9979797005653381
+"Honestly, I expected far worse given the reviews.",POSITIVE,NEGATIVE,0.9980296492576599
+"The app rarely crashes anymore, which is a nice change.",POSITIVE,POSITIVE,0.9982402324676514
+I guess it's fine if you enjoy paying extra for nothing.,NEGATIVE,POSITIVE,0.9978607296943665
+"Despite the rocky start, the whole experience turned out great.",POSITIVE,POSITIVE,0.9997662901878357
+"The design looks nice, but the battery life ruins the experience.",NEGATIVE,NEGATIVE,0.9997051358222961

@@ -1,0 +1,37 @@
+paragraph_id,paragraph,entity,label,score
+0,Marie Curie conducted groundbreaking research on radioactivity at the University of Paris.,Marie Curie,PER,0.989940345287323
+0,Marie Curie conducted groundbreaking research on radioactivity at the University of Paris.,University of Paris,ORG,0.9940230250358582
+1,Nelson Mandela became the first Black president of South Africa after decades of activism in Johannesburg.,Nelson Mandela,PER,0.9994181990623474
+1,Nelson Mandela became the first Black president of South Africa after decades of activism in Johannesburg.,Black,MISC,0.9985976815223694
+1,Nelson Mandela became the first Black president of South Africa after decades of activism in Johannesburg.,South Africa,LOC,0.9990465044975281
+1,Nelson Mandela became the first Black president of South Africa after decades of activism in Johannesburg.,Johannesburg,LOC,0.9995218515396118
+2,Albert Einstein developed the theory of relativity while working at the Swiss Patent Office in Bern.,Albert Einstein,PER,0.9987249374389648
+2,Albert Einstein developed the theory of relativity while working at the Swiss Patent Office in Bern.,Swiss Patent Office,ORG,0.9849820733070374
+2,Albert Einstein developed the theory of relativity while working at the Swiss Patent Office in Bern.,Bern,LOC,0.9951645135879517
+3,Malala Yousafzai received the Nobel Peace Prize after her advocacy work in Pakistan and at the United Nations.,Malala Yousafzai,PER,0.9743745923042297
+3,Malala Yousafzai received the Nobel Peace Prize after her advocacy work in Pakistan and at the United Nations.,Nobel Peace Prize,MISC,0.9980084300041199
+3,Malala Yousafzai received the Nobel Peace Prize after her advocacy work in Pakistan and at the United Nations.,Pakistan,LOC,0.9998229146003723
+3,Malala Yousafzai received the Nobel Peace Prize after her advocacy work in Pakistan and at the United Nations.,United Nations,ORG,0.9987133741378784
+4,Barack Obama served as President of the United States and later opened the Obama Foundation in Chicago.,Barack Obama,PER,0.999484658241272
+4,Barack Obama served as President of the United States and later opened the Obama Foundation in Chicago.,United States,LOC,0.9993852972984314
+4,Barack Obama served as President of the United States and later opened the Obama Foundation in Chicago.,Obama Foundation,ORG,0.9944000840187073
+4,Barack Obama served as President of the United States and later opened the Obama Foundation in Chicago.,Chicago,LOC,0.9991969466209412
+5,Mahatma Gandhi led the independence movement against British rule across India.,Ma,PER,0.9996235370635986
+5,Mahatma Gandhi led the independence movement against British rule across India.,##hat,PER,0.8247441649436951
+5,Mahatma Gandhi led the independence movement against British rule across India.,##ma Gandhi,PER,0.9799306392669678
+5,Mahatma Gandhi led the independence movement against British rule across India.,British,MISC,0.9996286630630493
+5,Mahatma Gandhi led the independence movement against British rule across India.,India,LOC,0.9993976354598999
+6,Angela Merkel served as Chancellor of Germany and represented the country at the G7 summit in Munich.,Angela Merkel,PER,0.9977476000785828
+6,Angela Merkel served as Chancellor of Germany and represented the country at the G7 summit in Munich.,Germany,LOC,0.9996548891067505
+6,Angela Merkel served as Chancellor of Germany and represented the country at the G7 summit in Munich.,G7,MISC,0.9954687356948853
+6,Angela Merkel served as Chancellor of Germany and represented the country at the G7 summit in Munich.,Munich,LOC,0.9990575909614563
+7,Jane Goodall founded the Jane Goodall Institute after her research on chimpanzees in Tanzania.,Jane Goodall,PER,0.9994454383850098
+7,Jane Goodall founded the Jane Goodall Institute after her research on chimpanzees in Tanzania.,Jane Goodall Institute,ORG,0.99012690782547
+7,Jane Goodall founded the Jane Goodall Institute after her research on chimpanzees in Tanzania.,Tanzania,LOC,0.9997413754463196
+8,Nikola Tesla worked for Westinghouse Electric before establishing his own laboratory in New York.,Nikola Tesla,PER,0.998650848865509
+8,Nikola Tesla worked for Westinghouse Electric before establishing his own laboratory in New York.,Westinghouse Electric,ORG,0.9981914758682251
+8,Nikola Tesla worked for Westinghouse Electric before establishing his own laboratory in New York.,New York,LOC,0.9993805885314941
+9,"Kofi Annan served as Secretary-General of the United Nations, based in New York City.",Ko,PER,0.9996256828308105
+9,"Kofi Annan served as Secretary-General of the United Nations, based in New York City.",##fi Annan,PER,0.9849888682365417
+9,"Kofi Annan served as Secretary-General of the United Nations, based in New York City.",United Nations,ORG,0.9991015791893005
+9,"Kofi Annan served as Secretary-General of the United Nations, based in New York City.",New York City,LOC,0.9995215535163879

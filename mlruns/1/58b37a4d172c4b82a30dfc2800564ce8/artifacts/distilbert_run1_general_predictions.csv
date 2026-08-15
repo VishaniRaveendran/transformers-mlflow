@@ -1,0 +1,21 @@
+sentence,true_label,predicted_label,confidence
+The movie was absolutely fantastic and kept me on the edge of my seat.,POSITIVE,POSITIVE,0.9998825788497925
+I loved the customer service at this restaurant.,POSITIVE,POSITIVE,0.9998179078102112
+This is the best phone I have ever owned.,POSITIVE,POSITIVE,0.9997275471687317
+The concert last night was an unforgettable experience.,POSITIVE,POSITIVE,0.999819815158844
+"Her presentation was clear, engaging, and well organized.",POSITIVE,POSITIVE,0.9998724460601807
+I am so happy with how my new apartment turned out.,POSITIVE,POSITIVE,0.9998757839202881
+The team did an amazing job finishing the project early.,POSITIVE,POSITIVE,0.9996010661125183
+What a wonderful sunny day for a picnic.,POSITIVE,POSITIVE,0.9998866319656372
+The book was a delightful and heartwarming read.,POSITIVE,POSITIVE,0.9998867511749268
+Our vacation in Bali exceeded all of our expectations.,POSITIVE,POSITIVE,0.998372495174408
+The food was cold and the service was incredibly slow.,NEGATIVE,NEGATIVE,0.999796450138092
+"I regret buying this laptop, it crashes constantly.",NEGATIVE,NEGATIVE,0.9987868666648865
+The traffic this morning was a nightmare.,NEGATIVE,NEGATIVE,0.999541163444519
+This is the worst customer support I have ever dealt with.,NEGATIVE,NEGATIVE,0.9997774958610535
+The hotel room smelled awful and was not cleaned properly.,NEGATIVE,NEGATIVE,0.9997997879981995
+I was extremely disappointed with the ending of the film.,NEGATIVE,NEGATIVE,0.9997889399528503
+The product broke after just two days of use.,NEGATIVE,NEGATIVE,0.9994503855705261
+Waiting in line for three hours was frustrating and exhausting.,NEGATIVE,NEGATIVE,0.9994127750396729
+The lecture was boring and difficult to follow.,NEGATIVE,NEGATIVE,0.9997296929359436
+I can't believe how rude the staff were to us.,NEGATIVE,NEGATIVE,0.9995181560516357

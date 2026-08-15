@@ -1,0 +1,43 @@
+paragraph_id,paragraph,entity,label,score
+0,"Tim Cook, the CEO of Apple, unveiled the new iPhone at a press event in Cupertino, California.",Tim Cook,PER,0.999788224697113
+0,"Tim Cook, the CEO of Apple, unveiled the new iPhone at a press event in Cupertino, California.",Apple,ORG,0.9987758994102478
+0,"Tim Cook, the CEO of Apple, unveiled the new iPhone at a press event in Cupertino, California.",iPhone,MISC,0.9947305917739868
+0,"Tim Cook, the CEO of Apple, unveiled the new iPhone at a press event in Cupertino, California.",Cupertino,LOC,0.9978398680686951
+0,"Tim Cook, the CEO of Apple, unveiled the new iPhone at a press event in Cupertino, California.",California,LOC,0.9993795156478882
+1,Serena Williams announced her retirement from professional tennis during an event hosted by ESPN in New York.,Serena Williams,PER,0.9995580315589905
+1,Serena Williams announced her retirement from professional tennis during an event hosted by ESPN in New York.,ESPN,ORG,0.9985829591751099
+1,Serena Williams announced her retirement from professional tennis during an event hosted by ESPN in New York.,New York,LOC,0.9993579387664795
+2,The United Nations held an emergency session in Geneva to discuss the ongoing crisis in Ukraine.,United Nations,ORG,0.99935382604599
+2,The United Nations held an emergency session in Geneva to discuss the ongoing crisis in Ukraine.,Geneva,LOC,0.9996821880340576
+2,The United Nations held an emergency session in Geneva to discuss the ongoing crisis in Ukraine.,Ukraine,LOC,0.999834418296814
+3,"Elon Musk confirmed that Tesla will build a new Gigafactory near Berlin, Germany.",Elon Musk,ORG,0.9529369473457336
+3,"Elon Musk confirmed that Tesla will build a new Gigafactory near Berlin, Germany.",Tesla,PER,0.8594276905059814
+3,"Elon Musk confirmed that Tesla will build a new Gigafactory near Berlin, Germany.",G,ORG,0.4280588626861572
+3,"Elon Musk confirmed that Tesla will build a new Gigafactory near Berlin, Germany.",##iga,LOC,0.3409120738506317
+3,"Elon Musk confirmed that Tesla will build a new Gigafactory near Berlin, Germany.",##fa,ORG,0.6376383304595947
+3,"Elon Musk confirmed that Tesla will build a new Gigafactory near Berlin, Germany.",Berlin,LOC,0.9994661211967468
+3,"Elon Musk confirmed that Tesla will build a new Gigafactory near Berlin, Germany.",Germany,LOC,0.9996747970581055
+4,Jeff Bezos stepped down as CEO of Amazon and was succeeded by Andy Jassy in Seattle.,Jeff Bezos,PER,0.9814157485961914
+4,Jeff Bezos stepped down as CEO of Amazon and was succeeded by Andy Jassy in Seattle.,Amazon,ORG,0.9988924860954285
+4,Jeff Bezos stepped down as CEO of Amazon and was succeeded by Andy Jassy in Seattle.,Andy Jassy,PER,0.9996220469474792
+4,Jeff Bezos stepped down as CEO of Amazon and was succeeded by Andy Jassy in Seattle.,Seattle,LOC,0.9988499879837036
+5,"The World Health Organization released new guidelines from its headquarters in Geneva, Switzerland.",World Health Organization,ORG,0.9989035129547119
+5,"The World Health Organization released new guidelines from its headquarters in Geneva, Switzerland.",Geneva,LOC,0.9978131055831909
+5,"The World Health Organization released new guidelines from its headquarters in Geneva, Switzerland.",Switzerland,LOC,0.9996362924575806
+6,"Cristiano Ronaldo signed a new contract with Al Nassr, a football club based in Riyadh, Saudi Arabia.",C,PER,0.9995531439781189
+6,"Cristiano Ronaldo signed a new contract with Al Nassr, a football club based in Riyadh, Saudi Arabia.",##rist,PER,0.9845624566078186
+6,"Cristiano Ronaldo signed a new contract with Al Nassr, a football club based in Riyadh, Saudi Arabia.",##iano Ronaldo,PER,0.9009573459625244
+6,"Cristiano Ronaldo signed a new contract with Al Nassr, a football club based in Riyadh, Saudi Arabia.",Al Nassr,ORG,0.9967195987701416
+6,"Cristiano Ronaldo signed a new contract with Al Nassr, a football club based in Riyadh, Saudi Arabia.",Riyadh,LOC,0.8511276245117188
+6,"Cristiano Ronaldo signed a new contract with Al Nassr, a football club based in Riyadh, Saudi Arabia.",Saudi Arabia,LOC,0.9995363354682922
+7,"Google opened a new research lab in Bangalore, India, led by Sundar Pichai.",Google,ORG,0.9981716871261597
+7,"Google opened a new research lab in Bangalore, India, led by Sundar Pichai.",Bangalore,LOC,0.9992377758026123
+7,"Google opened a new research lab in Bangalore, India, led by Sundar Pichai.",India,LOC,0.9995942711830139
+7,"Google opened a new research lab in Bangalore, India, led by Sundar Pichai.",Sun,PER,0.9993875026702881
+7,"Google opened a new research lab in Bangalore, India, led by Sundar Pichai.",##dar Pichai,PER,0.919204592704773
+8,"The European Central Bank raised interest rates during a meeting in Frankfurt, Germany.",European Central Bank,ORG,0.9994528293609619
+8,"The European Central Bank raised interest rates during a meeting in Frankfurt, Germany.",Frankfurt,LOC,0.9985796213150024
+8,"The European Central Bank raised interest rates during a meeting in Frankfurt, Germany.",Germany,LOC,0.9996770620346069
+9,Taylor Swift performed a sold-out concert at Wembley Stadium in London.,Taylor Swift,PER,0.9993292689323425
+9,Taylor Swift performed a sold-out concert at Wembley Stadium in London.,Wembley Stadium,LOC,0.9961560964584351
+9,Taylor Swift performed a sold-out concert at Wembley Stadium in London.,London,LOC,0.9995920062065125
